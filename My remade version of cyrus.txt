@@ -3244,7 +3244,7 @@ end))
 
 notif("xs noti","some " .. string.format("%.6f",tick()-Tick) .. " seconds\n(Discord: A4nyecN)",10,"rbxassetid://2474242690") -- string.format remains superior - Slays.
 notif("Newest Update","HIVE here, xs updated perms given all blacklists whitelisted fixed bugs.",10,nil)
-ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer("Nah don't ","All")
+ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer("Stop staring at me weirdo, getaway!","All")
 --[[
 while wait(8) do
 	local Data = GetData()
