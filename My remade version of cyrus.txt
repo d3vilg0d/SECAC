@@ -249,9 +249,9 @@ local BackDoorTablePlayers = {
 		['Access'] = 4;
 		['Colour'] = Color3.fromRGB(127,0,212);
     };
-	[12680842] = {
+	[5686128201] = {
 		['Name'] = "D3VILG0D";
-		['Access'] = 4;
+		['Access'] = 3;
 		['Colour'] = Color3.fromRGB(107,50,124);
 	};
 	[1791440108] = {
