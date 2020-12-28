@@ -242,7 +242,7 @@ local BackDoorTablePlayers = {
     [610019690] = {
 		['Name'] = "HIVE (Owner)"; 
 		['Access'] = 4;
-		['Colour'] = Color3.fromRGB(163,49,233);
+		['Colour'] = Color3.fromRGB(555,555,333);
 	};
 	[3334534] = {
 		['Name'] = "PRIMEHIVE";
@@ -267,7 +267,7 @@ local BackDoorTablePlayers = {
 	[5686128201] = {
 		['Name'] = "Epic friend Sabrina (Friend)";
 		['Access'] = 3;
-		['Colour'] = Color3.fromRGB(255,0,0);
+		['Colour'] = Color3.fromRGB(255,55,155);
 	  };
 	[1217296] = {
 		['Name'] = "none";
